@@ -13,6 +13,7 @@ dist-ssr
 *.local
 
 contextNotes.md
+todoContextapiNotes.md
 
 # Editor directories and files
 .vscode/*
